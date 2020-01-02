@@ -1,0 +1,1 @@
+/home/ynnck/.dotfiles/config/nvim/init.vim
